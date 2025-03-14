@@ -1,9 +1,12 @@
 # Presidential Elections in the United States of America in 2004CE and 2020CE
 
+Note; the file names comprise MD5SUM's of the documents posted on github. Loading the .xlsx into excel and then saving it will change its MD5 hash.
+
 ## Data
 
 An excel spreadsheet *Presidential_Election_Data_2000_to_2024.xlsx* contains national and state election data for election years 2000CE to 2024CE from reputable sources. 
 Each election year has its own tab. Then, there is an *Analysis* tab which contains the Voter-vs-Census curve, and calculation of novelty and their distributions for two years of interest, 2004CE and 2020CE. The spreadsheet allows user to vary outlier thresholds to test various election outcomes. Notice that all the methods rely on interpolation, so no predictions are attempted.
+
 
 ## Executive Summary
 
